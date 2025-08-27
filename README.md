@@ -20,10 +20,15 @@ pip install pillow
  - [type anything]: `Animation(frame1, duration, frame2, duration, ...)
 
  - [type nothing]:
+
   frame1
+
   duration
+
   frame2
+
   duration
+
   ...
 
 5. Type something if you want the splitted frames to be saved.
